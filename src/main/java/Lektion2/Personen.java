@@ -19,3 +19,6 @@ public class Personen {
 
 }
 
+//Firma f = new Firma(
+// new Person[] {new Chef("Sattler", "Beatrice",25, "Verkauf")} );
+
